@@ -1,6 +1,7 @@
 numpy
 fastapi
 pydantic
+tensorflow
 uvicorn
 python-multipart
 opencv-python-headless
